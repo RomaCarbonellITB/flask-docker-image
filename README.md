@@ -23,7 +23,7 @@ This repository contains a Dockerfile to build a Docker image for a Flask applic
    ```
    
 4. Access the Flask application at:
-- **`http://localhost:5000`**
+- [**`http://localhost:5000`**](http://localhost:5000)
 
 ### NOTES
 - Ensure that you have Docker installed on your machine.
